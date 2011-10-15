@@ -2,7 +2,6 @@ package mystik;
 
 /**
 MYSTIK RPG
-PROGRAMMED BY weka
 STARTED May 23, 2010
 
 (c) 2011
