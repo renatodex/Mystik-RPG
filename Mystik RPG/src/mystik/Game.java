@@ -530,7 +530,7 @@ public class Game extends JApplet implements KeyListener, MouseListener,
 			gold = 0;
 			exp = 52;
 			level = getLevels(exp);
-			c.append("\nI am level: " + getLevels(exp));
+			c.append("I am level: " + getLevels(exp) + "\n.");
 			currhp = 10;
 			maxhp = 10;
 			
