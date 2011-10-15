@@ -23,6 +23,6 @@ LSHIFT: views signs
 CTRL key: toggles stats in-game. SHIFT+ARROW key: open doors
 
 
-3. Questions?
+3. Questions? Concerns?
 
 Email me @ danjasnowski@gmail.com
