@@ -1,11 +1,9 @@
 // Mystik Map Editor v1
 
-// ADD ACTUAL MONSTERS IN-GAME TOOOOOOOOOOOOOOOOOOOOO
-
 /**
 TO-DO List
 
-4. Tools -> Tile Dropper, Line Creater
+4. Tools -> Line Tool, Rectangle Tool
 
 **/
 
